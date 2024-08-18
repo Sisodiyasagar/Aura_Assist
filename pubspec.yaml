@@ -9,14 +9,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.2
-  firebase_core: ^2.24.2
+  cupertino_icons:
+  firebase_core:
   firebase_auth:
-  flutter_gemini: ^2.0.5
-  image_picker: ^1.1.2
-  dash_chat_2: ^0.0.21
-  google_fonts:
-  flutter_launcher_icons: ^0.13.1
+  flutter_gemini:
+  image_picker:
+  dash_chat_2:
+  google_fonts: ^6.2.1
+  flutter_launcher_icons:
 
 dev_dependencies:
   flutter_test:

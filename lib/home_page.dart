@@ -28,8 +28,8 @@ class _HomePageState extends State<HomePage> {
   );
   ChatUser geminiUser = ChatUser(
       id: "1",
-      firstName: "Zippy AI",
-      profileImage: "assets/images/profile.png");
+      firstName: "Aura Assist",
+      profileImage: "assets/images/logowithnamehd.png");
   @override
   Widget build(BuildContext context) {
     return Scaffold(
